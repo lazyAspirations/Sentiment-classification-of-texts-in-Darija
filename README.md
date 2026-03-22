@@ -1,8 +1,8 @@
 Sentiment Classification of Texts in Darija 🇩🇿🇲🇦
 📌 Project Overview
 This project focuses on the Sentiment Analysis of comments written in Darija (Maghrebi Arabic dialect). The system classifies texts into three categories: Positive, Neutral, and Negative. It leverages Natural Language Processing (NLP) techniques and the K-Nearest Neighbors (KNN) algorithm to handle the unique linguistic challenges of the dialect.
-https://github.com/lazyAspirations/Sentiment-classification-of-texts-in-
-![Snippet of the code](Darija/blob/6893e32489748143822428f8d1a79976b16fa7df/Doc/gbfdbfb.PNG)
+
+![Snippet of the code](https://github.com/lazyAspirations/Sentiment-classification-of-texts-in-Darija/blob/main/Doc/gbfdbfb.PNG?raw=true)
 
 Developed by: Aissat Mohamed Moncef
 

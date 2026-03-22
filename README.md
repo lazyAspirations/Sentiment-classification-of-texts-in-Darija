@@ -1,10 +1,8 @@
-For your Sentiment Analysis project, it is professional to have the README in English so that the global developer community (and international recruiters) can understand your work.
-
-Here is the full, high-quality README.md for your Darija Sentiment Classification repository.
-
 Sentiment Classification of Texts in Darija 🇩🇿🇲🇦
 📌 Project Overview
 This project focuses on the Sentiment Analysis of comments written in Darija (Maghrebi Arabic dialect). The system classifies texts into three categories: Positive, Neutral, and Negative. It leverages Natural Language Processing (NLP) techniques and the K-Nearest Neighbors (KNN) algorithm to handle the unique linguistic challenges of the dialect.
+https://github.com/lazyAspirations/Sentiment-classification-of-texts-in-
+![Snippet of the code](Darija/blob/6893e32489748143822428f8d1a79976b16fa7df/Doc/gbfdbfb.PNG)
 
 Developed by: Aissat Mohamed Moncef
 
